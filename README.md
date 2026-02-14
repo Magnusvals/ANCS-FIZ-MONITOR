@@ -1,5 +1,7 @@
 # ANCS – ESP32 FIZ Monitor
 
+3D Case Files for mounting on a Video Assist: [Thingiverse](https://www.thingiverse.com/thing:7295004)
+
 ### Camera Focus / Iris / Zoom Wireless Monitor
 
 Firmware for the **ANCS FIZ Monitor Node**, an ESP32-based wireless camera control monitor designed for distributed film / broadcast environments.
