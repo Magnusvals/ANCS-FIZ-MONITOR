@@ -60,25 +60,7 @@ Incoming packets must contain:
 * Target Base MAC
 * FIZ Data Struct
 
-### FIZ Data Packet
 
-```
-struct fizVar {
-  uint8_t tally;
-  uint8_t tallyBrightness;
-  uint8_t zoomVar;
-  uint8_t focusVar;
-};
-```
-
-| Variable        | Description                              |
-| --------------- | ---------------------------------------- |
-| tally           | 0=Off, 1=PGM, 2=PVW, 3=PGM+PVW, 4=Status |
-| tallyBrightness | 0–25                                     |
-| zoomVar         | 0–254                                    |
-| focusVar        | 0–254                                    |
-
----
 
 ## 🔌 Boot Modes
 
